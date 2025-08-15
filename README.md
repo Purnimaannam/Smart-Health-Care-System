@@ -51,7 +51,11 @@ Our platform:
 🏗 Tech Stack
 
 **Backend**: Django / Flask / FastAPI (choose your actual backend)
+
 **Frontend**: HTML, CSS, JavaScript, Bootstrap
+
 **AI/ML**: TensorFlow / PyTorch (whichever your project uses)
+
 **Database**: PostgreSQL / MySQL / SQLite
+
 **Deployment**: Render / Heroku / AWS
